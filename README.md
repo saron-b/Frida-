@@ -12,4 +12,4 @@ In the past month, what are the three main activities you have been doing at wor
 Reading, hiking
 
 What are the three most important tools/strategies you use for organizing your work?
-..
+....
